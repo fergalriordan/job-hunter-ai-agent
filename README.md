@@ -22,3 +22,4 @@ This AI agent is targeted at bridging this gap in an ethical way: through semi-a
     └── config/
         └── credentials.json
     ```
+6. Go to [Google Cloud Platform - OAuth Consent Screen](https://console.cloud.google.com/apis/credentials/consent) and click on Audience > Test users. Add your email as a test user. 
